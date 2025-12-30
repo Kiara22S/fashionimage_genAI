@@ -1,6 +1,4 @@
 streamlit
-pillow
-opencv-python
-numpy
-torch
-diffusers
+Pillow
+google-genai
+python-dotenv
